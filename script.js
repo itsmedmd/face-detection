@@ -44,5 +44,5 @@ video.addEventListener("play", () => {
         faceapi.draw.drawDetections(canvas, resizedDetections);
         faceapi.draw.drawFaceExpressions(canvas, resizedDetections);
         faceapi.draw.drawFaceLandmarks(canvas, resizedDetections);
-    }, 150);
+    }, 100);
 });
