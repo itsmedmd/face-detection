@@ -1,2 +1,2 @@
 # Face detection website
-Live version [here](https://www.deimantasbutenas.lt/projects/3/preview/)
+Live version [here](https://itsmedmd.github.io/face-detection/)
